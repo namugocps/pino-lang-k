@@ -12,10 +12,10 @@
 
 &nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
 # 프로젝트 개요
-- &nbsp;&nbsp;&nbsp;<img src="projects/p1.png" width="1000">
-- &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="1000">
-- &nbsp;&nbsp;&nbsp;<img src="projects/p3.png" width="1000">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p1.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="800">
+- &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
 # 프로젝트 개요
 - 시연동영상 (아래 이미지를 클릭하시면 유튜브로 이동합니다) </br>
-[![시연](projects/p1.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
+[![시연](projects/pino-main.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
