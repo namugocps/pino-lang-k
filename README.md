@@ -12,6 +12,11 @@
 
 &nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
 
+# 프로젝트 개요
+- 시연동영상 (아래 이미지를 클릭하시면 유튜브로 이동합니다) </br>
+[![시연](https://jin-youtube.s3.ap-northeast-2.amazonaws.com/imgs/buggame.png)](https://youtu.be/yRTNg0NkKh8)
 
+
+# 프로젝트 개요
 - 시연동영상 (아래 이미지를 클릭하시면 유튜브로 이동합니다) </br>
 [![시연](https://jin-youtube.s3.ap-northeast-2.amazonaws.com/imgs/buggame.png)](https://youtu.be/yRTNg0NkKh8)
