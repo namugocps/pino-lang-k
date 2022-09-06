@@ -8,6 +8,6 @@
 - <b>DBMS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Oracle
 - <b>Tool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Eclipse
 - <b>Framework</b>&nbsp;&nbsp;&nbsp;&nbsp;: Spring
-- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;: 신입사원이 입사하게 되면
+- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 신입사원이 입사하게 되면
 
 &nbsp;&nbsp;&nbsp;<img src="projects/samsung.png" width="400">
