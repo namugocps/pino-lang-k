@@ -16,6 +16,6 @@
 - &nbsp;&nbsp;&nbsp;<img src="projects/p2.png" width="800">
 - &nbsp;&nbsp;&nbsp;<img src="projects/p4.png" width="800">
 
-# 프로젝트 개요
+# 프로젝트 시연
 - 시연동영상 (아래 이미지를 클릭하시면 유튜브로 이동합니다) </br></br>
 [![시연](projects/pino-main.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
