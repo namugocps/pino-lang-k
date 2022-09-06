@@ -8,6 +8,6 @@
 - <b>DBMS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Oracle
 - <b>Tool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Eclipse
 - <b>Framework</b>&nbsp;&nbsp;&nbsp;&nbsp;: Spring
-- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 신입사원이 입사하게 되면
+- <b>업무내용</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 전직장인 피노소프트에 신입사원이 입사하게 되면 인사프로젝트를 2주간 실습을 진행하게 되는데, 이 부분에 대한 설명과 완성 모델이 필요해서 만들었고 직원들이 파견을 각자 나가게 되면 장비를 쉽게 파악할 수 있도록 기능을 같이 넣어 만든 웹 사이트다. (http://www.pinoinsa.com/) 방문용 id는 user, pw는 1234
 
-&nbsp;&nbsp;&nbsp;<img src="projects/samsung.png" width="400">
+&nbsp;&nbsp;&nbsp;<img src="projects/pino.png" width="400">
