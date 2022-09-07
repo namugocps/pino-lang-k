@@ -18,7 +18,7 @@
 
 # 프로젝트 시연
 - 시연동영상 (아래 이미지를 클릭하시면 유튜브로 이동합니다) </br></br>
-<video src="pino.mp4" controls>
+<video src="projects/pino.mp4" controls>
     이 브라우저에서 지원하지 않는 영상입니다.
  </video>
 [![시연](projects/pino-main.png)](https://www.youtube.com/watch?v=uVEzDbSvVJA)
